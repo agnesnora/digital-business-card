@@ -5,7 +5,7 @@ export default function Footer() {
         <img src="Twitter Icon.png" alt="twitterlogo" />
         <img src="Facebook Icon.png" alt="facebooklogo" />
         <img src="Instagram Icon.png" alt="instagramlogo" />
-        <img src="GitHub icon.png" alt="githublogo" />
+        <img src="GitHub Icon.png" alt="githublogo" />
       </div>
     </footer>
   );
